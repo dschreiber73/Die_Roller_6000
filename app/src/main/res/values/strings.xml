@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="welcome_textview_text">Welcome to Die Roller 6000!</string>
+    <string name="dice">Dice</string>
+    <string name="characters">Characters</string>
+    <string name="_4_sided">D4</string>
+    <string name="_6_sided">D6</string>
+    <string name="_8_sided">D8</string>
+    <string name="_10_sided">D10</string>
+    <string name="_12_sided">D12</string>
+    <string name="_20_sided">D20</string>
+    <string name="_100_sided_percent">D100</string>
+
+    <string name="choose_your_dice">Choose your dice:</string>
+    <string name="number_of_die">Number of Die:</string>
+    <string name="roll">Roll</string>
+    <string name="result_text"> </string>
+    <string name="add_new_character">Add New Character</string>
+    <string name="character_name">Character Name:</string>
+    <string name="character_description">Character Description:</string>
+    <string name="add">add</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_cancel_text">menu_cancel_text</string>
+    <string name="char_roll">Roll</string>
+    <string name="attacks">Attacks:</string>
+    <string name="d">d</string>
+    <string name="results">Results</string>
+    <string name="under_construction_will_update_soon">Under Construction. Will update soon.</string>
+
+
+    <string-array name="num_die_spinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="numDiceSpinner">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+
+    <string-array name="numSidesSpinner">
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>20</item>
+        <item>100</item>
+    </string-array>
+
+</resources>
